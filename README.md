@@ -1,5 +1,7 @@
 # ox_inventory
 
+This fork aims to provide further support and security related updates for ox_inventory since the orginal repository has now been archived by overextended.
+
 A complete inventory system for FiveM, implementing items, weapons, shops, and more without any strict framework dependency.
 
 ![](https://img.shields.io/github/downloads/overextended/ox_inventory/total?logo=github)
